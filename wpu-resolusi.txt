@@ -1,5 +1,5 @@
 WPU - RESOLUSI
-- Konsisten belajar coding untuk pengembangan web setiap hari
-- Bisa membuat website sendiri 
+- Konsisten belajar coding untuk pengembangan web setiap hari 
 - Bisa menjadi Web Developer yang handal
 - Berkolaborasi dengan teman-teman expert
+- Mendeploy Website buatan sendiri
